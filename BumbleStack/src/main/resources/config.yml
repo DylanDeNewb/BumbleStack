@@ -1,0 +1,18 @@
+
+#
+# Configurable settings for MYSQL database
+#
+
+database:
+  host: 'bumble.arik.tech'
+  port: 3306
+  name: 's122_spawners'
+  username: 'u122_os1YH0mQF7'
+  password: 'S+whID7SZ@YZS=.=HC53KoIA'
+
+#
+# All configurable options for spawner processing
+#
+
+spawners:
+  limit: 10

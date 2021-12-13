@@ -1,0 +1,10 @@
+messages:
+  PREFIX_SHORT: "&5[&d&l✿&5] "
+  PREFIX_LONG: "&6[&fBumbleStack&6] "
+  INSUFFICIENT_ENTITY: "&fOnly players can run that command!"
+  INSUFFICIENT_PERMS: "&fYou are &c&nnot&f authorized to run this!"
+  SPAWNER_CREATE: "&fSpawner successfully created!"
+  SPAWNER_ADDED: "&fSuccessfully &a&nadded&f a spawner to the stack! &8(&7%total%&8)"
+  SPAWNER_DELETE: "&fSpawner successfully removed!"
+  SPAWNER_REMOVED: "&fSuccessfully &c&nremoved&f a spawner from stack! &8(&7%total%&8)"
+  SPAWNER_ERROR: "&cEncountered an error, contact an &c&nadministrator&c!"

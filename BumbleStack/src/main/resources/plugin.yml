@@ -1,0 +1,8 @@
+name: BumbleStack
+version: '${project.version}'
+main: net.bumblecraft.bumblestack.BumbleStack
+api-version: 1.17
+softdepend: [ HolographicDisplays ]
+authors: [ DylanDeNewb ]
+description: Bumble Stacker Plugin
+website: www.bumblecraft.net
